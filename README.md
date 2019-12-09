@@ -22,15 +22,17 @@
 ## Example of Semantic HTML
 
 
-<h1>Code Genius</html>
+<h1>Code Genius</html><br>
 <header>A School of Software Engineering</header>
 <section>
-  <h2>What does Code Genius do?</h2>
+<h2>What does Code Genius do?</h2>
 <p>16 Week Intensive Boot Camp taken from anywhere!</section>
 <article>Code Genius teaches global people to become Software Engineers and make their decent living from anywhere in the wold both online and offline. You do not need to know computer or any prior programming knowledge as we teach you from scratch! If you can type, read and write, you can be a Software Engineer too!</p>
 
 <p>Any one can get out from Odd Jobs in just 4-6 months! Learn to code and make $85k-$150k per year!</p>
 
 </article>
-<footer>Email us: codegenius7121@gmail.com, Cell: 888-888-8888</footer>
+<footer>
+  <h4>Email us: codegenius7121@gmail.com,<br> Cell: 888-888-8888</h4>
+</footer>
 
